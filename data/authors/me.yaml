@@ -1,0 +1,115 @@
+schema: hugoblox/author/v1
+slug: me
+is_owner: true
+name:
+  display: Samuele Bordini
+  given: Samuele
+  family: Bordini
+  alternate: ''
+  pronunciation: ''
+  pronouns: ''
+postnominals: []
+status:
+  icon: "🤖"
+role: PhD Student in Robotics
+bio: |
+  I am a PhD Student and Researcher in Robotics at the University of Pisa. My research focuses on developing robotic control theory for robots with elasticity. I work on a humanoid with a Variable Stiffness Actuators based arm, introducing it in applications in healthcare and domestic scenarios.
+
+affiliations:
+  - name: Centro E. Piaggio, University of Pisa / IIT
+    url: https://www.centropiaggio.unipi.it/
+
+links:
+  - icon: at-symbol
+    url: mailto:bordinisamuele@gmail.com
+    label: E-mail Me
+  - icon: brands/linkedin
+    url: https://www.linkedin.com/in/samuele-bordini
+  - icon: brands/github
+    url: https://github.com/BordiniSamuele
+
+interests:
+  - Robotics & Control Theory
+  - Humanoid Robots
+  - Variable Stiffness Actuators
+  - Soft Robotics
+
+education:
+  - degree: Master of Robotics and Automation Engineering
+    institution: University of Pisa
+    start: 2021-09-01
+    end: 2024-10-31
+    summary: |
+      Thesis: Distributed Control on a Modular Continuum Soft Arm.  
+      Grade: 110/110 cum laude
+  - degree: Bachelor of Management Engineering
+    institution: University of Pisa
+    start: 2017-09-01
+    end: 2021-10-01
+    summary: |
+      Thesis: Advance aspects of sliding and rolling friction.  
+      Grade: 102/110
+
+experience:
+  - role: PhD Student in Robotics
+    org: Centro E. Piaggio, University of Pisa / IIT
+    start: 2024-11-01
+    summary: |
+      Supervisors: Profs. G. Grioli, M. Catalano, A. Munafo, A. Bicchi.
+  - role: Post-Graduate Research Fellow
+    org: The Biorobotics Institute, Sant'Anna School of Advanced Studies
+    start: 2024-09-01
+    end: 2024-10-31
+    summary: |
+      Supervisor: Prof. Egidio Falotico.
+  - role: Teaching Assistant
+    org: ForeLab Summer School (Human-Centric ICT for Industry 5.0), University of Pisa
+    start: 2025-06-01
+    summary: |
+      Conducted practice sessions and tutorials on shared autonomy. Reference Professor: Andrea Munafo.
+  - role: Teaching Assistant
+    org: Master's Degree in Robotics (Robot Control Module), University of Pisa
+    start: 2025-09-01
+    end: 2025-12-31
+    summary: |
+      Conducted practice sessions on non-linear kinematic and dynamic control. Reference Professors: Antonio Bicchi and Giorgio Grioli.
+
+skills:
+  - name: Technical Skills
+    items:
+      - label: C++, Python, MATLAB
+        level: 5
+      - label: ROS, Gazebo, CasADi
+        level: 5
+      - label: Java, SQL, R Studio
+        level: 3.5
+      - label: Linux, Docker, LaTeX
+        level: 4
+
+languages:
+  - name: Italian
+    level: 5
+    label: Native
+  - name: English
+    level: 4
+    label: C1
+  - name: Spanish
+    level: 2.5
+    label: B1
+
+awards:
+  - title: Guida Sicura e Veloce
+    awarder: Formula Guida Sicura & University of Pisa
+    date: "2023-12-01"
+    summary: Corso Automobili.
+    icon: hero/academic-cap
+  - title: Industria 4.0
+    awarder: University of Pisa
+    date: "2023-10-01"
+    summary: Corso di formazione.
+    icon: hero/academic-cap
+  - title: Strumenti per la prevenzione e il contrasto alla violenza di genere in ambito lavorativo
+    awarder: CAFRE & University of Pisa
+    date: "2020-05-01"
+    summary: Progetto Vietato Violare.
+    icon: hero/academic-cap

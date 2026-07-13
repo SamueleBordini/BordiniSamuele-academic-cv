@@ -1,0 +1,10 @@
+/* Custom styles to prevent aggressive image zooming and cropping in card layouts */
+.group img.object-cover {
+  object-fit: contain !important;
+  background-color: rgba(255, 255, 255, 0.05); /* Soft background for transparent/letterboxed images */
+}
+
+/* Light/Dark mode compatible background */
+.dark .group img.object-cover {
+  background-color: rgba(255, 255, 255, 0.02);
+}
