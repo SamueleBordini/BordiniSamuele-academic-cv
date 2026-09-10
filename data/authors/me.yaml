@@ -24,9 +24,11 @@ links:
     url: mailto:bordinisamuele@gmail.com
     label: E-mail Me
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/samuele-bordini
+    url: https://www.linkedin.com/in/samuelebordini
   - icon: brands/github
-    url: https://github.com/BordiniSamuele
+    url: https://github.com/SamueleBordini/SamueleBordini
+  - icon: academicons/google-scholar
+    url: https://scholar.google.com/citations?user=gbDATOAAAAAJ&hl=it&oi=ao
 
 interests:
   - Robotics & Control Theory
@@ -64,7 +66,14 @@ experience:
       Supervisor: Prof. Egidio Falotico.
   - role: Teaching Assistant
     org: ForeLab Summer School (Human-Centric ICT for Industry 5.0), University of Pisa
+    start: 2026-06-01
+    end: 2026-06-01
+    summary: |
+      Conducted practice sessions and tutorials on shared autonomy. Reference Professor: Andrea Munafo.
+  - role: Teaching Assistant
+    org: ForeLab Summer School (Human-Centric ICT for Industry 5.0), University of Pisa
     start: 2025-06-01
+    end: 2025-06-01
     summary: |
       Conducted practice sessions and tutorials on shared autonomy. Reference Professor: Andrea Munafo.
   - role: Teaching Assistant
