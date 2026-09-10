@@ -29,9 +29,6 @@ tags:
   - System Usability
   - Telepresence Avatar
   - Clinical Evaluation
-links:
-  - type: doi
-    url: https://doi.org/10.3389/frobt.2026.1943197
 hugoblox:
   ids:
     doi: '10.3389/frobt.2026.1943197'

@@ -30,9 +30,6 @@ tags:
   - Assistive Robotics
   - Stakeholder-Driven Design
   - Co-Design
-links:
-  - type: doi
-    url: https://doi.org/10.3389/frobt.2026.1944029
 hugoblox:
   ids:
     doi: '10.3389/frobt.2026.1944029'
